@@ -3,7 +3,7 @@
 
 <p>
   Fullstack developer
-  Software Engineering student at **VNUHCM - University of Science**
+  Software Engineering student at VNUHCM - University of Science
 </p>
 
 ---
