@@ -1,11 +1,8 @@
 <h1>Hi, I'm Le Quoc Huy</h1>
 
-
-<p>
-  Fullstack developer
-  Software Engineering student at VNUHCM - University of Science
-</p>
-
+---
+  - Fullstack developer
+  - Software Engineering student at VNUHCM - University of Science
 ---
 
 ## About Me
